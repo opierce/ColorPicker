@@ -14,6 +14,7 @@
 		5A424E31249EF7AC00164CA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A424E30249EF7AC00164CA1 /* Assets.xcassets */; };
 		5A424E34249EF7AC00164CA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A424E32249EF7AC00164CA1 /* LaunchScreen.storyboard */; };
 		5A424E3F249EF7AD00164CA1 /* ColorPickerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A424E3E249EF7AD00164CA1 /* ColorPickerTests.swift */; };
+		5A424E4A249F0AFD00164CA1 /* UIColorExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A424E49249F0AFD00164CA1 /* UIColorExtensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		5A424E3A249EF7AD00164CA1 /* ColorPickerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ColorPickerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A424E3E249EF7AD00164CA1 /* ColorPickerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerTests.swift; sourceTree = "<group>"; };
 		5A424E40249EF7AD00164CA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5A424E49249F0AFD00164CA1 /* UIColorExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorExtensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				5A424E27249EF7AB00164CA1 /* AppDelegate.swift */,
 				5A424E29249EF7AB00164CA1 /* SceneDelegate.swift */,
 				5A424E2B249EF7AB00164CA1 /* ViewController.swift */,
+				5A424E49249F0AFD00164CA1 /* UIColorExtensions.swift */,
 				5A424E2D249EF7AB00164CA1 /* Main.storyboard */,
 				5A424E30249EF7AC00164CA1 /* Assets.xcassets */,
 				5A424E32249EF7AC00164CA1 /* LaunchScreen.storyboard */,
@@ -203,6 +206,7 @@
 				5A424E2C249EF7AB00164CA1 /* ViewController.swift in Sources */,
 				5A424E28249EF7AB00164CA1 /* AppDelegate.swift in Sources */,
 				5A424E2A249EF7AB00164CA1 /* SceneDelegate.swift in Sources */,
+				5A424E4A249F0AFD00164CA1 /* UIColorExtensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
